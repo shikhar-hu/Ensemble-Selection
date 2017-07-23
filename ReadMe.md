@@ -1,7 +1,7 @@
 
-[<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888">]
+<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888">
 
-#Ensemble Selection using Backtrack Search Algorithm
+# Testing Backtrack Search Optimization Algorithm as Ensemble Selection Method
 
 ```yaml
 
