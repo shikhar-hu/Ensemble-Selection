@@ -1,14 +1,14 @@
 <img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888">
 
-## R (3.3.1) codes for testing BSA as ensemble selection method
+## R (3.3.1) codes for creating model library for ensemble selections
 
 ```yaml
 
-Name of Quantlet : Ensemble_testing_codes
+Name of Quantlet : Classifier_codes
 
 Published in : Numerical Introductory Course (SS17)
 
-Description : For testing of BSA ensemble selection method against stacking and individual classifiers.
+Description : Building candidates of individual classifiers using varying hyper-parametric values.
 
 Keywords : machine learning,  parametric modeling, classification models, logistic regression, random forest, gradient boosting maching, neural networks, support vector machine
 
@@ -20,4 +20,4 @@ Input: 'Pre-processed outputs created after running 2_CrossValidation and baggin
 Output : 'Model library for ensemble search'
 
 ```
-## Check this [readme](https://github.com/shikhar-hu/Ensemble-Selection/blob/master/ReadMe.md) file to follow the procedure.
+### Check this [readme](https://github.com/shikhar-hu/Ensemble-Selection/blob/master/ReadMe.md) file to follow the procedure.
